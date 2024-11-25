@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratikLinq", "PratikLinq\PratikLinq.csproj", "{9E9F8558-90E5-483D-8091-8B396E0F779A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PratikLinq", "PratikLinq\PratikLinq.csproj", "{9E9F8558-90E5-483D-8091-8B396E0F779A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikafyMuzik", "PatikafyMuzik\PatikafyMuzik.csproj", "{AF511C65-2954-481D-903C-36B1952386CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9E9F8558-90E5-483D-8091-8B396E0F779A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E9F8558-90E5-483D-8091-8B396E0F779A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E9F8558-90E5-483D-8091-8B396E0F779A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF511C65-2954-481D-903C-36B1952386CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF511C65-2954-481D-903C-36B1952386CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF511C65-2954-481D-903C-36B1952386CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF511C65-2954-481D-903C-36B1952386CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
