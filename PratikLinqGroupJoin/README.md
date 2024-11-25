@@ -1,30 +1,17 @@
-## Pratik - Linq Group Join
--Bir okul veritabanı oluşturuyorsunuz ve aşağıdaki iki tablonun verilerini kullanarak group join işlemi gerçekleştirmeniz gerekiyor:
-
-Öğrenciler Tablosu (Students)
-
-StudentId: Öğrencinin benzersiz kimliği
-
-StudentName: Öğrencinin adı
-
-ClassId: Öğrencinin ait olduğu sınıfın kimliği
-
-Sınıflar Tablosu (Classes)
-
-ClassId: Sınıfın benzersiz kimliği
-
-ClassName: Sınıfın adı
-
-Aşağıdaki görevleri yerine getirin:
-
-Tabloyu Tanımlayın:
-
-Student ve Class isimli iki sınıf oluşturun. Her bir sınıf için uygun veri türlerini kullanarak C# sınıflarını tanımlayın.
-
-Veri Listelemesi:
-
-
-LINQ Sorgusu:
-
-Öğrenciler ve sınıflar arasında group join işlemi yaparak, her sınıfın altında o sınıfa ait olan öğrencilerin listelendiği bir sonuç elde edin. Sonuçları sınıf adıyla birlikte, o sınıfa ait öğrencilerin isimleriyle birlikte ekrana yazdıran bir LINQ sorgusu yazın.
+# Pratik - Linq Group Join
+## Bir okul veritabanÄ± oluÅŸturuyorsunuz ve aÅŸaÄŸÄ±daki iki tablonun verilerini kullanarak group join iÅŸlemi gerÃ§ekleÅŸtirmeniz gerekiyor:
+- **Ã–ÄŸrenciler Tablosu (Students)**
+- **StudentId: Ã–ÄŸrencinin benzersiz kimliÄŸi**
+- **StudentName: Ã–ÄŸrencinin adÄ±**
+- **ClassId: Ã–ÄŸrencinin ait olduÄŸu sÄ±nÄ±fÄ±n kimliÄŸi**
+## SÄ±nÄ±flar Tablosu (Classes)
+- **ClassId: SÄ±nÄ±fÄ±n benzersiz kimliÄŸi**
+- **ClassName: SÄ±nÄ±fÄ±n adÄ±**
+## AÅŸaÄŸÄ±daki gÃ¶revleri yerine getirin:
+**Tabloyu TanÄ±mlayÄ±n:**
+**Student ve Class isimli iki sÄ±nÄ±f oluÅŸturun. Her bir sÄ±nÄ±f iÃ§in uygun veri tÃ¼rlerini kullanarak C# sÄ±nÄ±flarÄ±nÄ± tanÄ±mlayÄ±n.**
+## Veri Listelemesi:
+![as](https://github.com/user-attachments/assets/2da8443c-f5f9-4210-80c9-89c8456cdbed)
+- **LINQ Sorgusu:**
+**Ã–ÄŸrenciler ve sÄ±nÄ±flar arasÄ±nda group join iÅŸlemi yaparak, her sÄ±nÄ±fÄ±n altÄ±nda o sÄ±nÄ±fa ait olan Ã¶ÄŸrencilerin listelendiÄŸi bir sonuÃ§ elde edin. SonuÃ§larÄ± sÄ±nÄ±f adÄ±yla birlikte, o sÄ±nÄ±fa ait Ã¶ÄŸrencilerin isimleriyle birlikte ekrana yazdÄ±ran bir LINQ sorgusu yazÄ±n.**
 
